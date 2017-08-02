@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is AA44-A8D3
-
- Directory of C:\Users\Binee\Desktop\MyProject
-
-08/02/2017  09:16 AM    <DIR>          .
-08/02/2017  09:16 AM    <DIR>          ..
-08/02/2017  09:16 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  167,396,982,784 bytes free
+change 1
